@@ -25,7 +25,7 @@
       <a href="viewBlog.html" > Blog</a>
       <a href="aboutUs.html" > About Us</a>
       <a href="contactUs.html" > Contact Us</a>
-      <a href="signIn.html" >Sign In</a>
+      <a href="login.php" >Sign In</a>
       <a href="signUp.html" >Sign Up</a>
     </div>
   </div>
