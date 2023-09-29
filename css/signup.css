@@ -1,0 +1,85 @@
+/* signup.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+/* Header Styles */
+p {
+  text-align: center;
+  color: #3f3c88;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+/* Form Styles */
+form {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #3f3c88;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Button Styles */
+button,
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.bg-indigo-900 {
+  background-color: #3f3c88;
+}
+
+.bg-indigo-900:hover {
+  background-color: #2d2a5f; /* Darker color on hover */
+}
+
+/* OR Divider Styles */
+.relative {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.border {
+  height: 1px;
+  width: 40%;
+  background-color: #ccc;
+}
+
+.text-stone-300 {
+  margin: 0 10px;
+  color: #ccc;
+}
