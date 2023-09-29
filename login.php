@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
-    <link href="../CSS/signin.css" rel="stylesheet">
+    <link href="css\signin.css" rel="stylesheet">
 </head>
 
 <!-- component -->
