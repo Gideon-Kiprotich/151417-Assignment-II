@@ -14,7 +14,7 @@
 			<!-- <img src="./../images/Dummy_Logo (1).png" class="mx-auto" alt=""> -->
 			<p class="text-center text-neutral-600 text-base font-semibold">Register</p>
 			<div class="mt-10">
-				<form action="../config/register.php" method="POST" class="px-10">
+				<form action="./config/register.php" method="POST" class="px-10">
 					<div class="mt-2 ">
                         <label for="" class="text-neutral-600 text-base font-normal">First Name :</label>
 						<div class="flex my-3 items-center justify-between bg-zinc-100 rounded-lg  ">
@@ -61,7 +61,7 @@
 								<div class=" text-stone-300 px-4 text-sm font-normal">OR</div>
 								<div class=" border h-0 w-2/4 border-stone-300"></div>
 							</div>
-							<button class="bg-indigo-900 rounded-lg shadow text-center text-white text-base font-semibold w-full py-3 mt-9">Login now</button>
+							<button class="bg-indigo-900 rounded-lg shadow text-center text-white text-base font-semibold w-full py-3 mt-9"><a href="login.php">Login</a></button>
 
 				</form>
 			</div>

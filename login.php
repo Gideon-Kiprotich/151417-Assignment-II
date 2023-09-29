@@ -14,7 +14,7 @@
 			<!-- <img src="./../images/Dummy_Logo (1).png" class="mx-auto" alt=""> -->
 			<p class="text-center text-neutral-600 text-base font-semibold">Login into your account</p>
 			<div class="mt-10">
-				<form action="../config/login.php" method="POST" class="px-10">
+				<form action="./config/login.php" method="POST" class="px-10">
 					<div class="mt-2 ">
 						<label for="" class="text-neutral-600 text-base font-normal">Email Adress</label>
 						<div class="flex my-3 items-center justify-between bg-zinc-100 rounded-lg  ">
