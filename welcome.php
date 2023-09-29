@@ -19,12 +19,12 @@
   </div>
   <div class="topnav">
     <div class="navbar">
-      <a href="index.html" > Home</a>
-      <a href="menu.html" > Menu</a>
-      <a href="orderNow.html" > Order Now</a>
-      <a href="viewBlog.html" > Blog</a>
-      <a href="aboutUs.html" > About Us</a>
-      <a href="contactUs.html" > Contact Us</a>
+      <a href="welcome.php" > Home</a>
+      <a href="menu.php" > Menu</a>
+      <a href="orderNow.php" > Order Now</a>
+      <a href="viewBlog.php" > Blog</a>
+      <a href="aboutUs.php" > About Us</a>
+      <a href="contactUs.php" > Contact Us</a>
       <a href="login.php" >Sign In</a>
       <a href="register.php" >Sign Up</a>
     </div>
