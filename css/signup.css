@@ -73,10 +73,9 @@ input[type="submit"] {
   margin-top: 20px;
 }
 
-.border {
-  height: 1px;
-  width: 40%;
-  background-color: #ccc;
+.bg-indigo-900 a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .text-stone-300 {

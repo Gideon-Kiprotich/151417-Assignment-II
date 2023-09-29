@@ -52,15 +52,16 @@
 							<input type="number" name="phone" placeholder="Phone number" id=""
                                     class="w-full text-neutral-600 placeholder:text-neutral-600 px-4 bg-transparent outline-none">
                         </div>
-							<a href="forget-password.html" class="mt-6 text-indigo-900 flex justify-end text-sm font-normal underline">Forgot password?</a>
-							<button class="bg-indigo-900 rounded-lg shadow text-center text-white text-base font-semibold w-full py-3 mt-9">Login now</button>
+							
+							<input type="submit" value="register" class="bg-indigo-900 rounded-lg shadow text-center text-white text-base font-semibold w-full py-3 mt-9" >
+							
 
 							<div class="relative flex items-center mt-8">
 								<div class="border h-0 w-2/4 border-stone-300"></div>
 								<div class=" text-stone-300 px-4 text-sm font-normal">OR</div>
 								<div class=" border h-0 w-2/4 border-stone-300"></div>
 							</div>
-							<input type="submit" value="register" class="border border-indigo-900 rounded-lg  text-center  text-indigo-900 bg-white text-base font-semibold w-full py-3 mt-9" >
+							<button class="bg-indigo-900 rounded-lg shadow text-center text-white text-base font-semibold w-full py-3 mt-9">Login now</button>
 
 				</form>
 			</div>

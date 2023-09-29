@@ -42,8 +42,8 @@
 								<div class=" border h-0 w-2/4 border-stone-300"></div>
 							</div>
 							<button
-                            class="border border-indigo-900 rounded-lg  text-center  text-indigo-900 bg-white text-base font-semibold w-full py-3 mt-9">Signup
-                            now</button>
+                            class="bg-indigo-900 rounded-lg shadow text-center text-white text-base font-semibold w-full py-3 mt-9"><a href="register.php">Sign Up</a>
+                            </button>
 
 				</form>
 			</div>

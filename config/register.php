@@ -14,4 +14,4 @@ $db = new db();
 
     $db->register($fname, $mname, $lname, $email, $password, $phone);
     echo "<script>alert('User registered successfully');</script>";
-    echo "<script>window.location.href='../views/welcome.php';</script>";
+    echo "<script>window.location.href='welcome.php';</script>";
